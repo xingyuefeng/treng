@@ -4,7 +4,6 @@ const expect = chai.expect
 
 describe('Unit tests for config', () => {
 	it('Tests for reading configurations', (done) => {
-    console.log('config.proxy====>', config.proxy)
 		expect(config.proxy).to.be.undefined
 		expect(config.spinner).to.be.true
 		expect(config.color).to.equal('white')

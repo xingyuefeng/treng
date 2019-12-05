@@ -1,7 +1,7 @@
 {
-  "name": "treng",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sbf",
+  "version": "1.0.3",
+  "description": "A CLI tool for translatqing words quickly",
   "main": "index.js",
   "scripts": {
     "coverage": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls",
@@ -13,8 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/xingyuefeng/treng.git"
   },
-  "author": "",
+  "author": "xingyuefeng <xing15262870437@gmail.com>",
   "license": "ISC",
+  "bin": {
+    "sbf": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/xingyuefeng/treng/issues"
   },
