@@ -2,9 +2,7 @@
 
 直接命令行查询中英文释义
 
-[![Coverage Status](https://coveralls.io/repos/github/xingyuefeng/treng/badge.svg)](https://coveralls.io/github/xingyuefeng/treng)
-
-[![Build Status](https://travis-ci.org/xingyuefeng/treng.svg?branch=master)](https://travis-ci.org/xingyuefeng/treng)
+[![Coverage Status](https://coveralls.io/repos/github/xingyuefeng/treng/badge.svg?branch=master)](https://coveralls.io/github/xingyuefeng/treng?branch=master) [![Build Status](https://travis-ci.org/xingyuefeng/treng.svg?branch=master)](https://travis-ci.org/xingyuefeng/treng)
 
 ## 安装
 
